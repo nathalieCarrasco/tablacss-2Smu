@@ -1,0 +1,97 @@
+/* estructura desafio tabla de tiempor ncc */
+
+ol {
+    list-style: none;
+    margin-left: 27%;
+    font-size: 17px;
+  }
+  li {
+    text-align: left;
+  }
+
+  b{
+    color: #224baf;
+  }
+  
+  table {
+    font-size: 20px;
+  
+    margin-left: 30%;
+    width: 546px;
+    background-color: #c6d0e5;
+  }
+  
+  .container_img {
+    margin-left: 30%;
+    width: 540px;
+  
+    border: solid gainsboro 2px;
+    padding: 4px;
+  }
+  
+  .container_subtitulo {
+     margin-left: 30%;
+  }
+  
+  p {
+    width: 527px;
+    font-size: medium;
+  }
+  ol,
+  p {
+    color: #666666;
+  }
+  .container_titulo {
+    margin-left: 30%;
+    margin-bottom: 0%;
+  }
+  
+  th {
+    background-color: #224baf;
+    color: white;
+    font-weight: lighter;
+    width: 20px;
+    padding: 10px;
+    font-size: 15px;
+  }
+  
+  tr {
+    background-color: white;
+    text-align: center;
+    height: 50px;
+  }
+  .titulo_Tabla {
+    margin-left: 30%;
+    margin-bottom: 10px;
+    font-weight: lighter;
+  }
+  
+  h1 {
+    font-weight: bold;
+    color: #224baf;
+
+  }
+  
+  h2 {
+    color: #224baf;
+    font-size: larger;
+
+  }
+  .container_tabla {
+    margin-left: 30%;
+    width: 505px;
+  }
+  
+  .cabecera_table {
+    text-align: left;
+    background-color: #c6d0e5;
+    color: #224baf;
+    width: 50px;
+    border: solid 1px white;
+    padding:10px 5px ;
+  }
+
+  .Texto-Tabla{
+    text-align: left;
+    margin-left: 30%;
+  }
